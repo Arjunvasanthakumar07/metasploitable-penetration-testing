@@ -31,9 +31,6 @@ exploit
 
 Accessed the shell and verified successful entry.
 
-📺 Reference
-
-Tutorial video: YouTube – Loi Liang Yang
 
 ⚠️ Disclaimer
 
